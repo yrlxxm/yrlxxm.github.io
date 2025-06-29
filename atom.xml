@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yrlxxm.github.io</id>
+    <title>小心柔</title>
+    <updated>2025-06-29T08:59:04.001Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yrlxxm.github.io"/>
+    <link rel="self" href="https://yrlxxm.github.io/atom.xml"/>
+    <subtitle>心若阳光，生活才能斑斓；人若简单，人生才能清澈!</subtitle>
+    <logo>https://yrlxxm.github.io/images/avatar.png</logo>
+    <icon>https://yrlxxm.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 小心柔</rights>
+    <entry>
+        <title type="html"><![CDATA[葡萄牙人的十四行诗集——6寸版]]></title>
+        <id>https://yrlxxm.github.io/post/gNB21ioyy3/</id>
+        <link href="https://yrlxxm.github.io/post/gNB21ioyy3/">
+        </link>
+        <updated>2025-06-28T14:32:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1913泰戈尔：古檀迦利.6寸版]]></title>
+        <id>https://yrlxxm.github.io/post/7o9zo80wRE/</id>
+        <link href="https://yrlxxm.github.io/post/7o9zo80wRE/">
+        </link>
+        <updated>2025-06-28T13:05:13.000Z</updated>
+    </entry>
+</feed>
